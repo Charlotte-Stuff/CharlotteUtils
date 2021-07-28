@@ -1,0 +1,13 @@
+main: com.Charlotte.Minecraft.SkyblockRPG.Plugin
+name: SkyblockRPG
+version: 0.001
+description: A Skyblock Game
+api-version: 1.17
+author: Charlotte
+commands:
+   ping:
+      description: Gets Your Connection To The Server
+      usage: /<command>
+   test:
+      description: A Test
+      usage: /<command>
